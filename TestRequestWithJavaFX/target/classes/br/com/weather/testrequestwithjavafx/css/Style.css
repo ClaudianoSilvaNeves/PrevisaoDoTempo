@@ -1,0 +1,13 @@
+.citySearch {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 2;
+}
+
+.searchButton {
+    -fx-background-color: #0099cc;
+    -fx-background-radius: 2;
+}
+
+.creditsLabel {
+    -fx-background-color: #0099cc;
+}
